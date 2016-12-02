@@ -1,0 +1,21 @@
+﻿
+在Windows下，将Android NDK的目录添加到PATH环境变量下，
+然后在此目录下输入：
+ndk-build
+命令进行编译。
+
+Linux下同理
+
+
+
+增量编译使用：ndk-build
+全量编译使用：ndk-build -B
+
+
+
+
+
+
+
+
+
