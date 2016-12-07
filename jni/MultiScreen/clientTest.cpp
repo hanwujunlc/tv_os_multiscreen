@@ -1,7 +1,8 @@
-//#include "MultiScreenClient.h"
-#include <binder/IPCThreadState.h>  
+#include "MultiClient.h"
+#include <binder/IPCThreadState.h>
 
 using namespace android;
+
 int main(int argc, char** argv)
 {
 	//MultiScreenClient client;

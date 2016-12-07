@@ -1,5 +1,6 @@
 #include "DEUDPServiceClient.h"
 #include "DEData.h"
+#include "CooCaaLog.h"
 
 USING_NS_COOCAA;
 
